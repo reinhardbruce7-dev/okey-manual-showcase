@@ -8,7 +8,7 @@ import { Link } from 'react-router-dom';
 const capabilities = [
   {
     title: 'AI Quotation Extraction',
-    description: 'Upload supplier quotations and extract structured procurement data using Gemini AI.',
+    description: 'Upload supplier quotations and extract structured procurement data using OKEY AI.',
     icon: Upload,
     status: 'live',
     link: '/quotations/add',

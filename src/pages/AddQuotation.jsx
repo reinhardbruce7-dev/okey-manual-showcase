@@ -55,7 +55,7 @@ export default function AddQuotation() {
             </p>
             <div className="mt-3 inline-flex items-center gap-1.5 px-2.5 py-1 bg-purple-50 rounded-full">
               <div className="w-1.5 h-1.5 bg-purple-500 rounded-full pulse-dot" />
-              <span className="text-[11px] font-medium text-purple-700">Powered by Gemini AI</span>
+              <span className="text-[11px] font-medium text-purple-700">Powered by OKEY AI</span>
             </div>
           </button>
         </div>
